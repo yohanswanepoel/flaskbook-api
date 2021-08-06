@@ -24,27 +24,37 @@ BOOKS = [
     {
         'title': 'On the Road',
         'author': 'Jack Kerouac',
+        'release': '1990',
+        'pages': '300',
         'read': True
     },
     {
         'title': 'Harry Potter and the Philosopher\'s Stone',
         'author': 'J. K. Rowling',
+        'release': '1990',
+        'pages': '300',
         'read': False
     },
     {
         'title': 'Green Eggs and Ham',
         'author': 'Dr. Seuss',
+        'release': '1990',
+        'pages': '300',
         'read': True
     },
     {
         'title': 'Never say Die',
         'author': 'Ian Flemming',
+        'release': '1990',
+        'pages': '230',
         'read': True
     },
     {
         'title': 'Jock of the Bushveld',
         'author': 'James Percy FitzPatrick',
         'author': 'Author Unknown',
+        'release': '1990',
+        'pages': '100',
         'read': True
     }
 ]
